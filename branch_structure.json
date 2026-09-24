@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-278-feat-backend-canonicalize-metadata-serialization",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-278-feat-backend-canonicalize-metadata-serialization": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-278-feat-backend-canonicalize-metadata-serialization",
+    "origin"
+  ]
+}
